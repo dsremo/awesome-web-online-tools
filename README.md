@@ -129,3 +129,7 @@
 
 ## License
 No License.
+
+### Multi-Tool Platforms
+
+- [ToolNest](https://toolnest.dsremo.com) - 696+ free online tools across 28 categories — PDF, image, AI, calculators, developer tools, party games, text tools, converters, and more. No signup, no watermarks.
